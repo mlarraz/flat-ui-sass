@@ -2,7 +2,10 @@
 
 `flat-ui-sass` is a SASS port of Designmodo's [Flat-UI Free](http://designmodo.github.io/Flat-UI/). `flat-ui-sass`
 also provides a rake task to convert and locally vendor [Flat-UI Pro](http://designmodo.com/flat/) for use with
-Rails, Compass, and vanilla SASS.
+Rails, Compass, and vanilla SASS. 
+
+**NOTE:** Support for Flat-UI Pro (and converting to SASS) is currently only available under MRI 2.0 and above.
+Users on other Ruby versions can still use Flat-UI Free.
 
 ##### This gem is currently under development! Things may be broken!
 
